@@ -20,4 +20,4 @@
 
 <h3>LeetCode</h3>
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=bogdanromanchuk&theme=baloo&animation=false&show_rank=false&cache=14400&height=150&width=350)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=bogdanromanchuk&theme=baloo&animation=false&show_rank=false&height=150&width=350)
